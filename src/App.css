@@ -7,7 +7,8 @@
 }
 
 body {
-  background: #f4f6f8;
+  background: linear-gradient(154.48deg, #2A5AF7 4.61%, #AB229B 78.86%);
+;
 }
 
 /* Page */
@@ -19,7 +20,7 @@ body {
   text-align: center;
   font-size: 36px;
   margin-bottom: 40px;
-  color: #222;
+  color: #FFFF;
 }
 
 /* Cards grid */
